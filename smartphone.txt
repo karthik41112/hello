@@ -4,3 +4,4 @@ SmartPhone has following:
 2.speaker=doulby sound
 3.camer=sony
 4.fingerPrint Sensor=Tcms
+5.microphone=apple
