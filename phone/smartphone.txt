@@ -1,6 +1,6 @@
 
 SmartPhone has following:
-1.display
-2.speaker
-3.camer
-4.fingerPrint Sensor
+1.display=Gorila glass
+2.speaker=doulby sound
+3.camer=sony
+4.fingerPrint Sensor=Tcms
